@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Serif');
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+#logo {
+  font-size: 20px;
+  height: 3.5em;
+  width: 15em;
+  text-align: center;
+  padding: 0.5em;
+}
+
+#logo h1, #logo h2, #logo h3 {
+  margin: 0;
+  white-space: nowrap;
+}
+
+#logo h1, #logo h3 {
+  text-transform: uppercase;
+}
+
+#logo h1 {
+  font-family: 'Droid Serif', serif;
+  font-size: 1em;
+  letter-spacing: 0.13em;
+  line-height: .75em;
+}
+
+#logo h2 {
+  display: inline-block;
+  font-family: 'Rubik', sans-serif;
+  font-size: 0.65em;
+  letter-spacing: 0.2em;
+  line-height: 1.6em;
+  background-color: #F8862E;
+  color: white;
+  margin-bottom: 0.25em;
+  padding: 0em 0.1em 0em 0.18em;
+}
+
+#logo h3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.5em;
+  letter-spacing: 0.11em;
+  line-height: 1em;
+}
